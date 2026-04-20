@@ -1,0 +1,36 @@
+De Volta ao Mundo — França
+
+Projeto web desenvolvido com HTML e Bootstrap com o objetivo de apresentar informações sobre a França, abordando história, cultura e turismo em uma interface simples e responsiva.
+
+Descrição
+
+Este projeto consiste em um site informativo dividido em páginas temáticas que exploram diferentes aspectos da França. O conteúdo é apresentado de forma organizada, utilizando imagens, vídeos e componentes do Bootstrap.
+
+Tecnologias Utilizadas
+HTML5
+CSS3
+Bootstrap 5
+JavaScript (Bootstrap)
+Funcionalidades
+Navegação entre páginas
+Layout responsivo
+Navbar fixa
+Uso de vídeos e imagens
+Cards informativos
+Links externos para aprofundamento
+Execução
+
+Para executar o projeto, abra o arquivo index.html em qualquer navegador web.
+
+Objetivo
+
+Este projeto foi desenvolvido com foco na prática de desenvolvimento web, incluindo estruturação de páginas, uso de framework CSS e organização de conteúdo.
+
+Autor
+
+Izac Gomes
+https://github.com/IzacMGomes
+
+Licença
+
+Projeto desenvolvido para fins educacionais.
